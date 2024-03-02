@@ -1,0 +1,87 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    text-shadow: -4px 6px 3px rgba(96, 94, 94, 0.427);
+}
+h3 {
+    text-decoration-line: underline;
+}
+.left-heading {
+    text-align: left;
+}
+.container {
+    border: 2px solid #7c7575;
+    background-color: #aeccd836;
+    padding: 10px;
+    margin: 10px auto;
+}
+.colour-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.color-panel {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+    margin: 5px;
+}
+.blue {
+    background-color: #2d5dcc;
+}
+.pink {
+    background-color: #d957d9;
+}
+.mint {
+    background-color: #4fe0b0;
+}
+.beige {
+    background-color: #efd9ca;
+}
+.orange {
+    background-color: #f6c15e;
+}
+.normal-text {
+    font-weight: 400;
+}
+.bold-text {
+    font-weight: 800;
+}
+.thin-text {
+    font-weight: 100;
+}
+.italic-text {
+    font-style: italic;
+}
+.source-code-box {
+    font-family: "ibm plex mono", sans-serif;
+}
+.flex-box-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.raleway-box {
+    font-family: "raleway", sans-serif;
+}
+.quicksand-box {
+    font-family: "quicksand", sans-serif;   
+}
+.dosis-box {
+    font-family: "dosis", sans-serif;
+}
+.font-size-24 {
+    font-size: 24px;
+}
+.no-modification {
+    text-decoration-line: none;
+    text-shadow: none;
+}
+
